@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Todoist-app/static/css/main.7d0c0922.css",
+    "main.js": "/Todoist-app/static/js/main.69a925f4.js",
+    "static/js/453.7d9aa295.chunk.js": "/Todoist-app/static/js/453.7d9aa295.chunk.js",
+    "index.html": "/Todoist-app/index.html",
+    "main.7d0c0922.css.map": "/Todoist-app/static/css/main.7d0c0922.css.map",
+    "main.69a925f4.js.map": "/Todoist-app/static/js/main.69a925f4.js.map",
+    "453.7d9aa295.chunk.js.map": "/Todoist-app/static/js/453.7d9aa295.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d0c0922.css",
+    "static/js/main.69a925f4.js"
+  ]
+}
